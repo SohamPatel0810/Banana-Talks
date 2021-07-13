@@ -2,7 +2,7 @@
 
 Translate your text into a minion language.
 
-Live-website:
+Live-website: https://minion-language-bananaaaa.netlify.app/
 
 Tech Stack:
 1. HTML5
